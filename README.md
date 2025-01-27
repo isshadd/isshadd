@@ -4,6 +4,6 @@
 
 # Languages:
 
-C/C++, Python, TypeScript, 
+C/C++, Python, TypeScript, HTML/CSS/JS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isshadd&hide_progress=true)
