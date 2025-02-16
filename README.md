@@ -6,4 +6,4 @@
 
 C/C++, Python, TypeScript, HTML/CSS/JS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Issam's stats](https://github-readme-stats.vercel.app/api?username=isshadd&show_icons=true&theme=radical)
