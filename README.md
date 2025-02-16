@@ -6,4 +6,4 @@
 
 C/C++, Python, TypeScript, HTML/CSS/JS
 
-![Issam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isshadd&hide_progress=true)
+![Issam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isshadd&hide_progress=false)
