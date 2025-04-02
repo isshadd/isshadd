@@ -1,5 +1,8 @@
-## Hi there, I'm Issam Haddadi 💻🤖
-**Computer Engineering student** at Polytechnique Montréal with a minor in Cybersecurity. Passionate about **software development**, **cybersecurity**, and **AI**.
+<h1> Hi there, I'm Issam Haddadi 💻🤖</h1>
+
+**`Computer Engineering student`**
+
+Hey 👋 ! I'm studying at Polytechnique Montréal with a minor in Cybersecurity. Passionate about **software development**, **cybersecurity**, and **AI**.
 
 ---
 
@@ -21,7 +24,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Issam Top Langs](https://raw.githubusercontent.com/isshadd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<div class="badges-githubstats">
+   <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshadd&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&layout=compact">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=isshadd&theme=tokyonight&hide_border=true" alt="Issam's Streak" height="165">
+   </p>
+ </div>
 
 ---
 
