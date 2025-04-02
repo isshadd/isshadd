@@ -21,7 +21,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Issam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isshadd&hide_progress=false&theme=radical)
+![Issam Top Langs](https://raw.githubusercontent.com/isshadd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
