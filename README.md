@@ -19,7 +19,7 @@ Hey 👋 ! I'm studying at Polytechnique Montréal with a minor in Cybersecurity
 ### 🚀 What I'm Up To
 - 🏫 Studying Computer Engineering with a minor in Cybersecurity at Polytechnique Montréal
 - 🔐 Interested in penetration testing, CTFs, and secure coding practices
-- 🏗️ Building full-stack applications with Python & TypeScript
+- 🏗️ Building full-stack applications & systems with Python & TypeScript
 
 ---
 
