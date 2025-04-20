@@ -4,6 +4,12 @@
 
 Hey 👋 ! I'm studying at Polytechnique Montréal with a minor in Cybersecurity. Passionate about **software development**, **cybersecurity**, and **AI**.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+</picture>
+
 ---
 
 ### 🔧 Languages & Tools
