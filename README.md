@@ -44,3 +44,7 @@ Hey 👋 ! I'm studying at Polytechnique Montréal with a minor in Cybersecurity
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-haddadi/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:issamhaddadi.ih@gmail.com)
 
+### ❗Special requests❗
+
+Not all of my cybersecurity projects are visible here. If you’d like to see more, please contact me and I’ll share additional work upon request.
+
